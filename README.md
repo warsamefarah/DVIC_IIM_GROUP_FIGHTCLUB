@@ -27,8 +27,16 @@ ___
 
 ![](assets/img/Sch%C3%A9ma%20Arduino%20-%204_Plan%20de%20travail%201.png)
 
+___
+
 ### Objets 3D utilisés
 
 - [Socle](assets/stl/main.stl)
 - [Boîtier à bouton](assets/stl/side.stl)
 - [Personnage](assets/stl/character-4.stl)
+
+___
+
+### Projet complété
+
+![](assets/img/20220722_152509.jpg)

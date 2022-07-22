@@ -34,12 +34,12 @@ void loop() {
   }
 
   if (digitalRead(10)) {
-    for (pos = 0; pos <= 90; pos += 1) {
+    for (pos = 0; pos <= 100; pos += 1) {
       myservo2.write(pos);
       delay(2);
     }
 
-    for (pos = 90; pos >= 0; pos -= 1) {
+    for (pos = 100; pos >= 0; pos -= 1) {
       myservo2.write(pos);
       delay(2);
     }
