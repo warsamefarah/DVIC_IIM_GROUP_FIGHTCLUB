@@ -1,4 +1,4 @@
-# RENDU DVIC - EXPLORER
+# RENDU DVIC - EXPLORER - *FIGHT CLUB*
 ___
 Ce projet a été réalisé par **Florent QUINTIN**, **Louis MONY**, **Louna BORDET**, **Warsamé FARAH ABDI** et **Yann DECELLE**.
 
@@ -30,6 +30,8 @@ ___
 ___
 
 ### Objets 3D utilisés
+
+Les réalisations ont été faites par **Warsamé FARAH ABDI** et **Yann DECELLE**
 
 - [Socle](assets/stl/main.stl)
 - [Boîtier à bouton](assets/stl/side.stl)
